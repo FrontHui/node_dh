@@ -1,0 +1,4 @@
+客户端请求所用方法为: GET 
+客户端请求所用url字符串为: / 
+客户端请求所用请求头对象为: {"host":"localhost:1337","connection":"keep-alive","pragma":"no-cache","cache-control":"no-cache","upgrade-insecure-requests":"1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8","accept-encoding":"gzip, deflate, br","accept-language":"zh-CN,zh;q=0.9","cookie":"WEBTRENDS_ID=4.0.4.24-3692208336.30646009; Webstorm-a6fa4a02=843026b5-f538-4012-8cc7-37418765cb13; WT-FPC=id=4.0.4.24-3692208336.30646009:lv=1541125850050:ss=1541124366270:fs=1532594666730:pn=8:vn=134"}
+客户端请求所用HTTP版本为: 1.1
